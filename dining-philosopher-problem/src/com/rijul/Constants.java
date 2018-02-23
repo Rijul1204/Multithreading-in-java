@@ -15,7 +15,7 @@ public class Constants {
 	}
 	
 	public static final int NUMBER_OF_PHILOSOPHER = 5;
-	public static final int NUMBER_OF_CHOPSTICK = 5;
-	public static final int ITERATION = 1000;
+	public static final int NUMBER_OF_CHOPSTICK = NUMBER_OF_PHILOSOPHER;
+	public static final int TIME_OF_ITERATION = 10000000;
 
 }
